@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1554769916 source:c:\users\tello\onedrive\escritorio\tp2 2019\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1554769916 c:\users\tello\onedrive\escritorio\tp2 2019\tp2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1557454894 source:c:\users\tello\onedrive\escritorio\tp2 2019\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"arrayEmployees.h"
+
+1557455839 c:\users\tello\onedrive\escritorio\tp2 2019\tp2\arrayemployees.h
+
+1557455858 source:c:\users\tello\onedrive\escritorio\tp2 2019\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"arrayEmployees.h"
+
